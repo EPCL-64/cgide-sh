@@ -1,0 +1,28 @@
+{
+  "name": "cgide.sh",
+  "version": "0.0.1",
+  "description": "Un site permettant de faciliter l'accès à des données informatives et utiles du lycée Charles Gide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EPCL-64/cgide-sh.git"
+  },
+  "keywords": [
+    "charles",
+    "gide",
+    "information",
+    "instagram",
+    "lycée",
+    "site",
+    "utilitaire"
+  ],
+  "author": "EPCL-64",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/EPCL-64/cgide-sh/issues"
+  },
+  "homepage": "https://github.com/EPCL-64/cgide-sh#readme"
+}
