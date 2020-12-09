@@ -12,19 +12,19 @@
 **[Cgide.sh]** est site web et un bot instagram conçu dans le but de faciliter l'accès à des données informatives et utiles du lycée **Charles Gide**. Il permet aussi de consulter ces notes par exemple directement sur **Instagram** sans passer par l'interface d'**[ENT]** ou **[Pronote]**.
 
 ### Avancement
-❌ Serveur web
-❌ Client web
-❌ Système de cryptage / décryptage
-❌ Base de données JSON
-❌ Interface entièrement réactif avec **[Bootstrap]** et **[ReactJS]**
-❌ Connection sur le site avec **Instagram**
-❌ Système de cooldown
-❌ Messages anynomes
-❌ Post automatique des messages anynomes sur **Instagram**
-❌ API non officielle pour **[ENT]**
-❌ API non officielle pour **Instagram**
-❌ Robot **Instagram**
-❌ Robot **Discord**
+- ❌ Serveur web
+- ❌ Client web
+- ❌ Système de cryptage / décryptage
+- ❌ Base de données JSON
+- ❌ Interface entièrement réactif avec **[Bootstrap]** et **[ReactJS]**
+- ❌ Connection sur le site avec **Instagram**
+- ❌ Système de cooldown
+- ❌ Messages anynomes
+- ❌ Post automatique des messages anynomes sur **Instagram**
+- ❌ API non officielle pour **[ENT]**
+- ❌ API non officielle pour **Instagram**
+- ❌ Robot **Instagram**
+- ❌ Robot **Discord**
 
 ### FAQ
 
